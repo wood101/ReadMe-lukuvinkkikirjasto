@@ -9,7 +9,7 @@ Ma 9.30-11.30   osa pystyy jatkamaan myös loppupäivällä luentojen jälkeen�
 
 To  9.30-11.30
 
-pe 12.30-13.30 asiakaspalaverin jälkeen
+pe 12.30-13.30  asiakaspalaverin jälkeen
 
 
 ## [Product backlog Google Docissa](https://docs.google.com/spreadsheets/d/1O1Wx9K8pMFfu_qx0O7vAwgkPlIZMfkedQ_htNHWB_vM/edit#gid=1)
@@ -24,3 +24,5 @@ pe 12.30-13.30 asiakaspalaverin jälkeen
 ## [linkki sovelluksen toimivaan versioon]( https://Tämä tulee tähän myöhemmässä vaiheessa)
 
 ## [työlle tulee määritellä lisenssi]( https://Tämä tulee tähän myöhemmässä vaiheessa)
+
+test
