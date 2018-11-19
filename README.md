@@ -17,7 +17,7 @@ pe 12.30-13.30  asiakaspalaverin jälkeen
 
 ## [Sprint Backlog Trellossa]( https://trello.com/b/JrkKyBqV/sprint-1-backlog)
 
-## [Sprint burndown-käyrä(https://docs.google.com/spreadsheets/d/1O1Wx9K8pMFfu_qx0O7vAwgkPlIZMfkedQ_htNHWB_vM/edit?usp=sharing)
+## [Sprint burndown-käyrä](https://docs.google.com/spreadsheets/d/1O1Wx9K8pMFfu_qx0O7vAwgkPlIZMfkedQ_htNHWB_vM/edit?usp=sharing)
 
 ## [Definition of done = DoD]( https://tähän linkki tiedostoihin omaan md tiedostoon katsokaa kalvoista -muut pojat)
 
