@@ -11,13 +11,13 @@ Tietokannan alustus terminaalissa:
 
 ```sql
 
-sqlite3 Lukuvinkkikirjasto.db
+sqlite3 Bookmarks.db
 
 
-CREATE TABLE Lukuvinkki (
-	vinkki_id integer PRIMARY KEY,
-	otsikko varchar(100),
-	kuvaus varchar(256),
-	linkki varchar(200)
+CREATE TABLE Bookmark (
+	bookmark_id integer PRIMARY KEY,
+	headline varchar(100),
+	description varchar(256),
+	link varchar(200)
 );
 ```
