@@ -17,9 +17,9 @@ pe 12.30-13.30 asiakaspalaverin jälkeen
 
 ## [Sprint Backlog Trellossa]( https://trello.com/b/JrkKyBqV/sprint-1-backlog)
 
-## [Definition of done = DoD]( https://tähän linkki tiedostoihin omaan md tiedostoon katso kalvoista muut pojat)
+## [Definition of done = DoD]( https://tähän linkki tiedostoihin omaan md tiedostoon katsokaa kalvoista -muut pojat)
 
-## [CI:travis]( https://tähän linkki Travis Janne)
+## [CI:travis]( https://tähän linkki Travis -Janne)
 
 ## [linkki sovelluksen toimivaan versioon](Tämä tulee tähän myöhemmässä vaiheessa)
 
