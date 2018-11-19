@@ -25,4 +25,3 @@ pe 12.30-13.30  asiakaspalaverin jälkeen
 
 ## [työlle tulee määritellä lisenssi]( https://Tämä tulee tähän myöhemmässä vaiheessa)
 
-test
