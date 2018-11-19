@@ -4,10 +4,15 @@
 
 Sprint 1:
 
-Tietokannassa on tässä vaiheessa yksi taulu, jolla määritellään Lukuvinkki. Käytössä on SQLLite3 tietokanta.
+Tietokannassa on tässä vaiheessa yksi taulu, jolla määritellään Lukuvinkki. Käytössä on SQLite3 tietokanta.
+
+Tietokannan alustus terminaalissa:
 
 
 ```sql
+
+sqlite3 Lukuvinkki.db
+
 
 CREATE TABLE Lukuvinkki (
 	vinkki_id integer PRIMARY KEY,
