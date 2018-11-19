@@ -1,12 +1,14 @@
 # ReadMe-lukuvinkkikirjasto
 OhtuMiniProjekti
 
-## Asiakaspalaveri  12-12.00
+## Asiakaspalaveri perjantaisin 12-12.30
 
 ## Mahdolliset yhteiset tapaamisajat:
 
-Ma 9.30-11.30   osa pystyy jatkamaan myös loppupä luentojen jälkeen…
+Ma 9.30-11.30   osa pystyy jatkamaan myös loppupäivällä luentojen jälkeen…
+
 To  9.30-11.30
+
 pe 12.30-13.30 asiakaspalaverin jälkeen
 
 
