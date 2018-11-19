@@ -11,7 +11,7 @@ Tietokannan alustus terminaalissa:
 
 ```sql
 
-sqlite3 Lukuvinkki.db
+sqlite3 Lukuvinkkikirjasto.db
 
 
 CREATE TABLE Lukuvinkki (
